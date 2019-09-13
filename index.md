@@ -31,11 +31,13 @@
 
 ### WIP
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [4) Demonetization - Sentiment Analysis](http://example.com/)
+- [5) Is Air travel still safe?](http://example.com/)
+- [6) Power BI Visualizations](http://example.com/)
+- [7) Categorizing news articles using Natural Language Processing](http://example.com/)
+- [8) Implementing Artificial Neural Networks in Python](http://example.com/)
+- [9) Classification using Big Data](http://example.com/)
+- [10) Visualizations using Python & R](http://example.com/)
 
 ---
 
