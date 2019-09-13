@@ -4,19 +4,19 @@
 
 ### Current Projects
 
-[Topic Modelling - Pipeline Implementation]
+#Topic Modelling - Pipeline Implementation
 
 <img src="images/topicmodelling.jpg?raw=true"/>
 
 ---
 
-[Customer Banking Behavior- Predictive Analytics]
+#Customer Banking Behavior- Predictive Analytics
 
 <img src="images/bank-analytics-logo.jpg?raw=true"/>
 
 ---
 
-[LA Bike Share - Operational Analytics & Demand Prediction]
+#LA Bike Share - Operational Analytics & Demand Prediction
 
 <img src="images/bikeshare.jpg?raw=true"/>
 
