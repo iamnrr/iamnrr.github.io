@@ -4,7 +4,7 @@
 
 ### Current Projects
 
-#### 1) Topic Modelling - Pipeline Implementation
+#### [1) Topic Modelling - Pipeline Implementation](https://github.com/iamnrr/iamnrr.github.io/blob/master/Topic%20Modelling%20-%20Pipeline%20Implementation/README.md)
 
 <img src="images/topicmodelling.jpg?raw=true"/>
 		
@@ -12,7 +12,7 @@
 
 ---
 
-#### 2) Customer Banking Behavior- Predictive Analytics
+#### [2) Customer Banking Behavior- Predictive Analytics](https://github.com/iamnrr/iamnrr.github.io/blob/master/Customer%20Banking%20Behavior-%20Predictive%20Analytics/README.md)
 
 <img src="images/bankanalyticslogo.png?raw=true"/>					
 		
@@ -20,7 +20,7 @@
 		
 ---
 
-#### 3) LA Bike Share - Operational Analytics & Demand Prediction
+#### [3) LA Bike Share - Operational Analytics & Demand Prediction](https://github.com/iamnrr/iamnrr.github.io/blob/master/LA%20Bike%20Share%20-%20Operational%20Analytics%20%26%20Demand%20Prediction/README.md)
 
 <img src="images/bikeshare.jpg?raw=true"/>
 
