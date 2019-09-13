@@ -6,19 +6,19 @@
 
 #### 1) Topic Modelling - Pipeline Implementation
 
-			   <img src="images/topicmodelling.jpg?raw=true"/>
+		<img src="images/topicmodelling.jpg?raw=true"/>
 
 ---
 
 #### 2) Customer Banking Behavior- Predictive Analytics
 
-			   <img src="images/bank-analytics-logo.jpg?raw=true"/>					
+		<img src="images/bank-analytics-logo.jpg?raw=true"/>					
 
 ---
 
 #### 3) LA Bike Share - Operational Analytics & Demand Prediction
 
-			   <img src="images/bikeshare.jpg?raw=true"/>
+		<img src="images/bikeshare.jpg?raw=true"/>
 
 			   
 ---
