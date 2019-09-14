@@ -11,7 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Dataset
 
-Download the data set and place it in the appropriate directory
+Dataset is available on [openml.org](https://www.openml.org/d/1461).
+Download the data set and place it in the appropriate directory. 
 
 ### Prerequisites
 
