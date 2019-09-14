@@ -4,11 +4,11 @@
 
 ### Current Projects
 
-#### [1) Topic Modelling - Pipeline Implementation](https://github.com/iamnrr/iamnrr.github.io/blob/master/Topic%20Modelling%20-%20Pipeline%20Implementation/README.md)
+#### [1) Topic Modelling - Pipeline Implementation](https://github.com/iamnrr/Topic-Modelling---Pipeline-Implementation/blob/master/NANDURI_DSC550_FINALPROJECT/README.md)
 
 <img src="images/topicmodelling.jpg?raw=true"/>
 		
-[Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Topic%20Modelling%20-%20Pipeline%20Implementation)
+[Click here for Github Repository](https://github.com/iamnrr/Topic-Modelling---Pipeline-Implementation/tree/master/NANDURI_DSC550_FINALPROJECT)
 
 ---
 
@@ -20,11 +20,11 @@
 		
 ---
 
-#### [3) LA Bike Share - Operational Analytics & Demand Prediction](https://github.com/iamnrr/iamnrr.github.io/blob/master/LA%20Bike%20Share%20-%20Operational%20Analytics%20%26%20Demand%20Prediction/README.md)
+#### [3) LA Bike Share - Operational Analytics & Demand Prediction](https://github.com/iamnrr/LA-Bike-Share---Operational-Analytics-Demand-Prediction/blob/master/README.md)
 
 <img src="images/bikeshare.jpg?raw=true"/>
 
-[Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/LA%20Bike%20Share%20-%20Operational%20Analytics%20%26%20Demand%20Prediction)
+[Click here for Github Repository](https://github.com/iamnrr/LA-Bike-Share---Operational-Analytics-Demand-Prediction)
 		
 ---
 
