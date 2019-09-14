@@ -22,16 +22,14 @@ Python 3
 
 Need to install the following modules:
 
-Pandas
-Scikit-learn
+* Pandas
+* Scikit-learn
+* Numpy
 
 
-## Running the tests
+## Execution
 
 Follow the below instructions to execute this project succesfully
-
-
-### Break down into end to end tests
 
 
 ## Authors
