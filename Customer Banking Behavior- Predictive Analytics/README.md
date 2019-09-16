@@ -26,6 +26,7 @@ Need to install the following modules:
 * Pandas
 * Scikit-learn
 * Numpy
+* os
 
 
 ## Execution

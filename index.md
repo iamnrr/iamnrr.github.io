@@ -16,7 +16,7 @@
 
 <img src="images/bankanalyticslogo.png?raw=true"/>					
 		
-[Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Customer%20Banking%20Behavior-%20Predictive%20Analytics)
+[Click here for Github Repository](https://github.com/iamnrr/DSC680-Projects/tree/master/Customer%20Behaviour%20Prediction)
 		
 ---
 
