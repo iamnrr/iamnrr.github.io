@@ -12,7 +12,7 @@
 
 ---
 
-#### [2) Customer Banking Behavior- Predictive Analytics](https://github.com/iamnrr/iamnrr.github.io/blob/master/Customer%20Banking%20Behavior-%20Predictive%20Analytics/README.md)
+#### [2) Customer Banking Behavior- Predictive Analytics](https://github.com/iamnrr/DSC680-Projects/tree/master/Customer%20Behaviour%20Prediction)
 
 <img src="images/bankanalyticslogo.png?raw=true"/>					
 		
