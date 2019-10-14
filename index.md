@@ -28,6 +28,12 @@
 		
 ---
 
+#### [4) Predictive Maintenance Model](https://github.com/iamnrr/DSC680-Projects/blob/master/Predictive%20Maintenance/README.md)
+
+<img src="images/Predictive Maintenance.jpg?raw=true"/>
+
+[Click here for Github Repository](https://github.com/iamnrr/DSC680-Projects/tree/master/Predictive%20Maintenance)
+		
 
 ### WIP
 
