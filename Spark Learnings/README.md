@@ -6,7 +6,7 @@ This project is to learn Spark through experimentation by performing different e
 
 1) Data Manipulation using PySpark
 2) Create a small Data Warehouse
-3) Spark streaming
+3) Spark Streaming
 4) Classification using PySpark - Logistic Regression
 
 ## Getting Started
