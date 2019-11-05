@@ -47,7 +47,7 @@
 
 #### [6) Exploring Spark](https://github.com/iamnrr/iamnrr.github.io/blob/master/Spark%20Learnings/README.md)
 
-<img src="images/Predictive Maintenance.jpg?raw=true"/>
+<img src="images/apache-spark.png?raw=true"/>
 
 [Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Spark%20Learnings)
 		
