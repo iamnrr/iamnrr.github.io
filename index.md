@@ -69,13 +69,12 @@
 
 ### Projects in Pipeline
 
-- [7) Demonetization - Sentiment Analysis](http://example.com/)
-- [8) Is Air travel still safe?](http://example.com/)
-- [9) Power BI Visualizations](http://example.com/)
-- [10) Categorizing news articles using Natural Language Processing](http://example.com/)
-- [11) Implementing Artificial Neural Networks in Python](http://example.com/)
-- [12) Classification using Big Data](http://example.com/)
-- [13) Visualizations using Python & R](http://example.com/)
+- [9) Demonetization - Sentiment Analysis](http://example.com/)
+- [10) Is Air travel still safe?](http://example.com/)
+- [11) Power BI Visualizations](http://example.com/)
+- [12) Categorizing news articles using Natural Language Processing](http://example.com/)
+- [13) Implementing Artificial Neural Networks in Python](http://example.com/)
+- [14) Visualizations using Python & R](http://example.com/)
 
 ---
 
