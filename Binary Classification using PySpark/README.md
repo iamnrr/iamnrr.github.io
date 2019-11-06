@@ -2,7 +2,7 @@
 
 ## Project Description: 
 
-This project is to learn Spark through experimentation by performing different exercises. In this project, I will implement binary logistic regression model to the baby name dataset to predict the sex of a person based on their age, name, and state they were born in. To train the model, I used the data found in baby-names/names-classifier.
+In this project, I will implement binary logistic regression model to the baby name dataset to predict the sex of a person based on their age, name, and state they were born in. To train the model, I used the data found in baby-names/names-classifier.
 
 
 ## Getting Started

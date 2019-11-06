@@ -46,18 +46,18 @@
 ---
 
 
-#### [6) Binary Classification using PySpark](https://github.com/iamnrr/iamnrr.github.io/blob/master/Spark%20Learnings/README.md)
+#### [6) Binary Classification using PySpark](https://github.com/iamnrr/iamnrr.github.io/blob/master/Binary%20Classification%20using%20PySpark/README.md)
 
-<img src="images/apache-spark.png?raw=true"/>
+<img src="images/MLlib Classification.png?raw=true"/>
 
 [Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Spark%20Learnings)
 		
 
-#### [7) Movie Recommendation Engine](https://github.com/iamnrr/iamnrr.github.io/blob/master/Spark%20Learnings/README.md)
+#### [7) Movie Recommendation Engine](https://github.com/iamnrr/iamnrr.github.io/blob/master/Movie%20Recommendation%20Engine/README.md)
 
-<img src="images/apache-spark.png?raw=true"/>
+<img src="images/Recommendation-systems.jpg?raw=true"/>
 
-[Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Spark%20Learnings)
+[Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Movie%20Recommendation%20Engine)
 		
 
 #### [8) Exploring Spark](https://github.com/iamnrr/iamnrr.github.io/blob/master/Spark%20Learnings/README.md)
