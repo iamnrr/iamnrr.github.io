@@ -1,12 +1,8 @@
-# Project Name: Spark Learnings.
+# Project Name: Binary Classification using PySpark
 
 ## Project Description: 
 
-This project is to learn Spark through experimentation by performing different exercises. Projects exploring PySpark are below:
-
-1) Data Manipulation using PySpark
-2) Create a small Data Warehouse
-3) Spark Streaming
+This project is to learn Spark through experimentation by performing different exercises. In this project, I will implement binary logistic regression model to the baby name dataset to predict the sex of a person based on their age, name, and state they were born in. To train the model, I used the data found in baby-names/names-classifier.
 
 
 ## Getting Started
