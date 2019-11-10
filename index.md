@@ -67,11 +67,11 @@
 [Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Spark%20Learnings)
 		
 
-#### [9) Neural Network Image Classifier](https://github.com/iamnrr/iamnrr.github.io/blob/master/Parameter%20Tuning%20-%20Cross%20Validation/README.md)
+#### [9) Neural Network Image Classifier](https://github.com/iamnrr/iamnrr.github.io/blob/master/Implementing%20-%20Neural%20Network%20Classifier/README.md)
 
 <img src="images/Neural_Network_Classifier.png?raw=true"/>
 
-[Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Parameter%20Tuning%20-%20Cross%20Validation)
+[Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Implementing%20-%20Neural%20Network%20Classifier)
 
 
 #### [10) Model Evaluation - Cross Validation](https://github.com/iamnrr/iamnrr.github.io/blob/master/Parameter%20Tuning%20-%20Cross%20Validation/README.md)
