@@ -37,7 +37,7 @@
 
 ---
 
-#### [5) Peer to Peer Lending - Analysis](https://github.com/iamnrr/DSC680-Projects/blob/master/Credit%20Risk%20Analysis%20in%20Peer%20to%20Peer%20Lending/README.md)
+#### [5) Peer to Peer Lending - Analysis (In Progress)](https://github.com/iamnrr/DSC680-Projects/blob/master/Credit%20Risk%20Analysis%20in%20Peer%20to%20Peer%20Lending/README.md)
 
 <img src="images/P2P_lending.png?raw=true"/>
 
