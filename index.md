@@ -67,21 +67,33 @@
 [Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Spark%20Learnings)
 		
 
+#### [9) Neural Network Image Classifier](https://github.com/iamnrr/iamnrr.github.io/blob/master/Parameter%20Tuning%20-%20Cross%20Validation/README.md)
 
-#### [9) Model Evaluation - Cross Validation](https://github.com/iamnrr/iamnrr.github.io/blob/master/Parameter%20Tuning%20-%20Cross%20Validation/README.md)
+<img src="images/Neural_Network_Classifier.png?raw=true"/>
+
+[Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Parameter%20Tuning%20-%20Cross%20Validation)
+
+
+#### [10) Model Evaluation - Cross Validation](https://github.com/iamnrr/iamnrr.github.io/blob/master/Parameter%20Tuning%20-%20Cross%20Validation/README.md)
 
 <img src="images/Evaluating_Machine_Learning_Models.png?raw=true"/>
 
 [Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Parameter%20Tuning%20-%20Cross%20Validation)
 
 
+
+
+
+
+
+
 ### Projects in Pipeline
 
-- [10) Demonetization - Sentiment Analysis](http://example.com/)
-- [11) Is Air travel still safe?](http://example.com/)
-- [12) Power BI Visualizations](http://example.com/)
-- [13) Implementing Artificial Neural Networks in Python](http://example.com/)
-- [14) Visualizations using Python & R](http://example.com/)
+- [11) Demonetization - Sentiment Analysis](http://example.com/)
+- [12) Is Air travel still safe?](http://example.com/)
+- [13) Power BI Visualizations](http://example.com/)
+- [14) Implementing Artificial Neural Networks in Python](http://example.com/)
+- [15) Visualizations using Python & R](http://example.com/)
 
 ---
 
