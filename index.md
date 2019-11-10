@@ -74,11 +74,11 @@
 [Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Neural%20Network%20Image%20Classifier)
 
 
-#### [10) Model Evaluation - Cross Validation](https://github.com/iamnrr/iamnrr.github.io/blob/master/Parameter%20Tuning%20-%20Cross%20Validation/README.md)
+#### [10) Model Evaluation - Cross Validation](https://github.com/iamnrr/iamnrr.github.io/blob/master/Model%20Evaluation%20-%20Cross%20Validation/README.md)
 
 <img src="images/Evaluating_Machine_Learning_Models.png?raw=true"/>
 
-[Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Parameter%20Tuning%20-%20Cross%20Validation)
+[Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Model%20Evaluation%20-%20Cross%20Validation)
 
 
 
