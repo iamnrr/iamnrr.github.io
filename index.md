@@ -68,11 +68,11 @@
 		
 
 
-#### [9) Model Evaluation - Cross Validation](https://github.com/iamnrr/iamnrr.github.io/blob/master/Spark%20Learnings/README.md)
+#### [9) Model Evaluation - Cross Validation](https://github.com/iamnrr/iamnrr.github.io/blob/master/Parameter%20Tuning%20-%20Cross%20Validation/README.md)
 
-<img src="images/apache-spark.png?raw=true"/>
+<img src="images/Evaluating_Machine_Learning_Models.png?raw=true"/>
 
-[Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Spark%20Learnings)
+[Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Parameter%20Tuning%20-%20Cross%20Validation)
 
 
 ### Projects in Pipeline
