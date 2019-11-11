@@ -2,9 +2,8 @@
 
 ---
 
-### Current Projects
 
-#### [1) Topic Modelling - Pipeline Implementation](https://github.com/iamnrr/Topic-Modelling---Pipeline-Implementation/blob/master/NANDURI_DSC550_FINALPROJECT/README.md)
+#### [Topic Modelling - Pipeline Implementation](https://github.com/iamnrr/Topic-Modelling---Pipeline-Implementation/blob/master/NANDURI_DSC550_FINALPROJECT/README.md)
 
 <img src="images/topicmodelling.jpg?raw=true"/>
 		
@@ -12,7 +11,7 @@
 
 ---
 
-#### [2) Customer Banking Behavior- Predictive Analytics](https://github.com/iamnrr/DSC680-Projects/tree/master/Customer%20Behaviour%20Prediction)
+#### [Customer Banking Behavior- Predictive Analytics](https://github.com/iamnrr/DSC680-Projects/tree/master/Customer%20Behaviour%20Prediction)
 
 <img src="images/bankanalyticslogo.png?raw=true"/>					
 		
@@ -20,7 +19,7 @@
 		
 ---
 
-#### [3) LA Bike Share - Operational Analytics & Demand Prediction](https://github.com/iamnrr/LA-Bike-Share---Operational-Analytics-Demand-Prediction/blob/master/README.md)
+#### [LA Bike Share - Operational Analytics & Demand Prediction](https://github.com/iamnrr/LA-Bike-Share---Operational-Analytics-Demand-Prediction/blob/master/README.md)
 
 <img src="images/bikeshare.jpg?raw=true"/>
 
@@ -28,7 +27,7 @@
 		
 ---
 
-#### [4) Predictive Maintenance Model](https://github.com/iamnrr/DSC680-Projects/blob/master/Predictive%20Maintenance/README.md)
+#### [Predictive Maintenance Model](https://github.com/iamnrr/DSC680-Projects/blob/master/Predictive%20Maintenance/README.md)
 
 <img src="images/Predictive Maintenance.jpg?raw=true"/>
 
@@ -37,7 +36,7 @@
 
 ---
 
-#### [5) Peer to Peer Lending - Analysis (In Progress)](https://github.com/iamnrr/DSC680-Projects/blob/master/Credit%20Risk%20Analysis%20in%20Peer%20to%20Peer%20Lending/README.md)
+#### [Peer to Peer Lending - Analysis (In Progress)](https://github.com/iamnrr/DSC680-Projects/blob/master/Credit%20Risk%20Analysis%20in%20Peer%20to%20Peer%20Lending/README.md)
 
 <img src="images/P2P_lending.png?raw=true"/>
 
@@ -46,35 +45,35 @@
 ---
 
 
-#### [6) Binary Classification using PySpark](https://github.com/iamnrr/iamnrr.github.io/blob/master/Binary%20Classification%20using%20PySpark/README.md)
+#### [Binary Classification using PySpark](https://github.com/iamnrr/iamnrr.github.io/blob/master/Binary%20Classification%20using%20PySpark/README.md)
 
 <img src="images/MLlib Classification.png?raw=true"/>
 
 [Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Spark%20Learnings)
 		
 
-#### [7) Movie Recommendation Engine](https://github.com/iamnrr/iamnrr.github.io/blob/master/Movie%20Recommendation%20Engine/README.md)
+#### [Movie Recommendation Engine](https://github.com/iamnrr/iamnrr.github.io/blob/master/Movie%20Recommendation%20Engine/README.md)
 
 <img src="images/Recommendation-systems.jpg?raw=true"/>
 
 [Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Movie%20Recommendation%20Engine)
 		
 
-#### [8) Exploring Spark](https://github.com/iamnrr/iamnrr.github.io/blob/master/Spark%20Learnings/README.md)
+#### [Exploring Spark](https://github.com/iamnrr/iamnrr.github.io/blob/master/Spark%20Learnings/README.md)
 
 <img src="images/apache-spark.png?raw=true"/>
 
 [Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Spark%20Learnings)
 		
 
-#### [9) Neural Network Image Classifier](https://github.com/iamnrr/iamnrr.github.io/blob/master/Neural%20Network%20Image%20Classifier/README.md)
+#### [Neural Network Image Classifier](https://github.com/iamnrr/iamnrr.github.io/blob/master/Neural%20Network%20Image%20Classifier/README.md)
 
 <img src="images/Neural_Network_Classifier.png?raw=true"/>
 
 [Click here for Github Repository](https://github.com/iamnrr/iamnrr.github.io/tree/master/Neural%20Network%20Image%20Classifier)
 
 
-#### [10) Model Evaluation - Cross Validation](https://github.com/iamnrr/iamnrr.github.io/blob/master/Model%20Evaluation%20-%20Cross%20Validation/README.md)
+#### [Model Evaluation - Cross Validation](https://github.com/iamnrr/iamnrr.github.io/blob/master/Model%20Evaluation%20-%20Cross%20Validation/README.md)
 
 <img src="images/Evaluating_Machine_Learning_Models.png?raw=true"/>
 
@@ -84,18 +83,6 @@
 
 
 
-
-
-
-### Projects in Pipeline
-
-- [11) Demonetization - Sentiment Analysis](http://example.com/)
-- [12) Is Air travel still safe?](http://example.com/)
-- [13) Power BI Visualizations](http://example.com/)
-- [14) Implementing Artificial Neural Networks in Python](http://example.com/)
-- [15) Visualizations using Python & R](http://example.com/)
-
----
 
 
 
