@@ -1,5 +1,5 @@
-Summary
-=======
+
+## Project Description: 
 
 This dataset (ml-latest-small) describes 5-star rating and free-text tagging activity from [MovieLens](http://movielens.org), a movie recommendation service. It contains 100004 ratings and 1296 tag applications across 9125 movies. These data were created by 671 users between January 09, 1995 and October 16, 2016. This dataset was generated on October 17, 2016.
 
@@ -145,3 +145,30 @@ Cross-Validation
 ----------------
 
 Prior versions of the MovieLens dataset included either pre-computed cross-folds or scripts to perform this computation. We no longer bundle either of these features with the dataset, since most modern toolkits provide this as a built-in feature. If you wish to learn about standard approaches to cross-fold computation in the context of recommender systems evaluation, see [LensKit](http://lenskit.org) for tools, documentation, and open-source code examples.
+
+
+
+## Execution
+
+Follow the below instructions to execute this project succesfully:
+
+1) Download the data set from the given link and place it in the data directory.
+
+2) Change the file path to the 'Data' directory everywhere the files are referenced.
+
+3) Ensure all the required python modules are installed.
+
+4) Start executing the code.
+
+
+## Authors
+
+- *Raghu Raman Nanduri* 
+
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
+
