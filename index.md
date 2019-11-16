@@ -11,7 +11,7 @@
 
 ---
 
-#### [Customer Banking Behavior- Predictive Analytics](https://github.com/iamnrr/DSC680-Projects/tree/master/Customer%20Behaviour%20Prediction)
+#### [Customer Banking Behavior- Predictive Analytics](https://github.com/iamnrr/DSC680-Projects/blob/master/Customer%20Behaviour%20Prediction/README.md)
 
 <img src="images/bankanalyticslogo.png?raw=true"/>					
 		
