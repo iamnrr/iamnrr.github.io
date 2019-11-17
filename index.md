@@ -2,7 +2,7 @@
 
 ---
 
-#### [Customer Banking Behavior- Predictive Analytics](https://github.com/iamnrr/DSC680-Projects/blob/master/Customer%20Behaviour%20Prediction/README.md)
+#### <a href="https://github.com/iamnrr/DSC680-Projects/blob/master/Customer%20Behaviour%20Prediction/README.md" target="_blank">Customer Banking Behavior- Predictive Analytics</a>
 
 <img src="images/bankanalyticslogo.png?raw=true"/>					
 		
