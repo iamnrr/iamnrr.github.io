@@ -6,24 +6,27 @@
 
 <img src="images/bankanalyticslogo.png?raw=true"/>					
 		
-[Click here for Github Repository](https://github.com/iamnrr/DSC680-Projects/tree/master/Customer%20Behaviour%20Prediction)
-		
+
+<a href="https://github.com/iamnrr/DSC680-Projects/tree/master/Customer%20Behaviour%20Prediction" target="_blank">Click here for Github Repository</a>		
 ---
 
-#### [Predictive Maintenance Model](https://github.com/iamnrr/DSC680-Projects/blob/master/Predictive%20Maintenance/README.md)
+#### <a href="https://github.com/iamnrr/DSC680-Projects/blob/master/Predictive%20Maintenance/README.md" target="_blank">Predictive Maintenance Model</a>
+
 
 <img src="images/Predictive Maintenance.jpg?raw=true"/>
 
-[Click here for Github Repository](https://github.com/iamnrr/DSC680-Projects/tree/master/Predictive%20Maintenance)
 
+<a href="https://github.com/iamnrr/DSC680-Projects/tree/master/Predictive%20Maintenance" target="_blank">Click here for Github Repository</a>	
 
 ---
 
-#### [Peer to Peer Lending - Analysis](https://github.com/iamnrr/DSC680-Projects/blob/master/Credit%20Risk%20Analysis%20in%20Peer%20to%20Peer%20Lending/README.md)
+#### <a href="https://github.com/iamnrr/DSC680-Projects/blob/master/Credit%20Risk%20Analysis%20in%20Peer%20to%20Peer%20Lending/README.md" target="_blank">Peer to Peer Lending - Analysis</a>
+
 
 <img src="images/P2P_lending.png?raw=true"/>
 
-[Click here for Github Repository](https://github.com/iamnrr/DSC680-Projects/tree/master/Credit%20Risk%20Analysis%20in%20Peer%20to%20Peer%20Lending)
+
+<a href="https://github.com/iamnrr/DSC680-Projects/tree/master/Credit%20Risk%20Analysis%20in%20Peer%20to%20Peer%20Lending" target="_blank">Click here for Github Repository</a>	
 
 ---
 
